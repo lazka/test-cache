@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "xxx"
+version = "0.1.0"
+description = ""
+authors = ["Christoph Reiter <reiter.christoph@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests-cache = "^1.0.1"
+requests = "^2.30.0"
+pygithub = "^1.58.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
