@@ -6,7 +6,7 @@ authors = ["Christoph Reiter <reiter.christoph@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.8"
 requests-cache = "^1.0.1"
 requests = "^2.30.0"
 pygithub = "^1.58.1"
